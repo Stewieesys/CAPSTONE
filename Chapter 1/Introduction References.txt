@@ -23,3 +23,21 @@ One of the major concerns in forest conservation is the lack of efficient forest
 https://www.un.org/sustainabledevelopment/climate-change/
 https://www.un.org/sustainabledevelopment/goal-of-the-month-goal-15-life-on-land/
 Sustainable Development Goal (SDG) 13, known as Climate Action, focuses on taking urgent measures to combat climate change and its impacts. It aims to strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries. The goal emphasizes the importance of integrating climate change measures into policies, strategies, and planning processes. It also promotes education, awareness, and capacity-building efforts related to climate change mitigation and adaptation. Meanwhile, Sustainable Development Goal (SDG) 15, known as Life on Land, focuses on protecting, restoring, and promoting the sustainable use of terrestrial ecosystems. It aims to sustainably manage forests, combat desertification, halt biodiversity loss, and ensure the conservation of natural habitats for future generations.
+
+1.1 Introduction Link
+https://denr.gov.ph/wp-content/uploads/2023/05/Intensified_Forest_Protection_and_Anti-Illegal_Logging.pdf
+https://iforest.sisef.org/contents/?id=ifor3937-014&utm
+
+
+
+1.2 
+Study 1: Illegal Logging Detection Based on Acoustic Surveillance (2020)
+Link: https://www.mdpi.com/2076-3417/10/20/7379
+Study 2: An Internet of Things Platform for Forest Monitoring (2023)
+Link: https://dergipark.org.tr/en/download/article-file/3504991
+Study 3: Using Artificial Intelligence and IoT Solution for Forest Fire Prevention (2023)
+Link: https://cris.unibo.it/bitstream/11585/942503/3/Using%20Artificial%20Intelligence%20and%20IoT%20Solution%20for%20Forest%20Fire%20Prevention.pdf
+Study 4: ForestProtector: An IoT Architecture Integrating Machine Vision and Deep Reinforcement Learning for Efficient Wildfire Monitoring (2025)
+Link: https://arxiv.org/abs/2501.09926
+
+ the proposed Guarded Remote Environmental Early-warning Network (GREEN) integrates a motion sensor, camera, temperature sensor, and smoke sensor with machine learning to classify detected motion as either human or animal before streaming real-time video to a web-based monitoring dashboard. This technical review highlights the different sensing technologies, artificial intelligence techniques, communication methods, and real-time monitoring capabilities used in existing systems that serve as the foundation for the design and development of the GREEN system.
