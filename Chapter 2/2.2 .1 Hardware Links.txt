@@ -1,0 +1,6 @@
+Esp32-S3 link https://documentation.espressif.com/esp32-s3_datasheet_en.pdf
+DHT11 https://www.mouser.com/datasheet/2/758/DHT11-Technical-Data-Sheet-Translated-Version-1143054.pdf
+MQ-135	https://www.winsen-sensor.com/d/files/PDF/Semiconductor%20Gas%20Sensor/MQ135%20%28Ver1.4%29%20-%20Manual.pdf
+PIR AM132 https://datacapturecontrol.com/articles/io-components/sensors/motion/pir
+0V264O https://www.uctronics.com/download/cam_module/OV2640DS.pdf
+Li-ion 10k mAh https://li-polymer-battery.com/3-7v-rechargeable-li-polymer-battery-lp9866115-10000mah-with-pcm-and-wires/page/36/
